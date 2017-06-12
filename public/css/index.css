@@ -1,0 +1,28 @@
+header {
+  border-style: solid;
+  border-color: rgb(192, 174, 112);
+  border-width: 5px;
+  background-color: rgb(28, 80, 57);
+}
+main {
+  border-style: solid;
+  border-color: rgb(192, 174, 112);
+  border-width: 5px;
+  background-color: rgb(28, 80, 57);
+}
+li {
+  display: inline;
+  border-style: solid;
+  border-color: rgb(192, 174, 112);
+  align-items: center;
+  background-color: rgb(28, 80, 57);
+  padding: 15px;
+  margin: 15px;
+}
+.nav {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+body {
+  color: white;
+}
